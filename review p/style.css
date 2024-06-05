@@ -1,0 +1,62 @@
+body,
+html {
+
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    /* Horizontally center */
+    align-items: center;
+    /* Vertically center */
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto 0;
+    /* Centering the body */
+    box-sizing: border-box;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 50px;
+    background-color: lightcyan;
+
+}
+
+
+.container {
+    text-align: center;
+    font-size: 15px;
+}
+
+.review {
+    border-radius: 50px;
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid orangered;
+    margin: 0 auto;
+}
+
+.img-container img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+#job {
+    color: blue;
+
+}
+
+.button-container {
+    gap: 5px;
+}
+
+.random-btn {
+    margin-top: 18px;
+    border-radius: 10px;
+}

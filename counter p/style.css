@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+#value {
+    font-size: 40px;
+    margin-left: 410px;
+
+}
+
+.button-container {
+    text-align: center;
+    padding-top: 7px;
+
+}
+
+.btn:hover {
+    background-color: brown;
+}
+
+.btn {
+    background-color: aqua;
+    border-radius: 20px;
+}

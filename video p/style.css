@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.video-container {
+    /* max-width: 600px;
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    text-align: center;
+
+}
+
+.controls {
+    margin-top: 10px;
+    /* display: flex; /* Use flexbox for controls */
+    /* justify-content: center; /* Center horizontally */
+    /* width: 100%;  */ 
+}
+
+.controls button {
+    margin-right: 10px;
+}
+
+#myVideo {
+    height: 200px;
+    width: 600px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    
+}

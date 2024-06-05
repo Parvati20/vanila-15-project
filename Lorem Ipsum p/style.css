@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.center {
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 42.5vw;
+
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+article {
+    margin: 50px 25px 0 25px;
+
+}
+
+button {
+    height: 30px;
+    width: 5p0x;
+    background-color: skyblue;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 15px;
+    font-size: 10PX;
+    font-weight: bold;
+    cursor: pointer;
+    /* transition: 0.3s; */
+}
+
+button:hover {
+    background-color: #00bfff;
+}

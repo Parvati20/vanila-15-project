@@ -1,0 +1,49 @@
+.nav-center {
+    border: 2px solid white;
+    box-shadow: 0 0 10px gray;
+
+
+}
+
+h4 {
+    color: aqua;
+    margin-right: 370px;
+    text-shadow: aqua;
+
+}
+
+.nav-center {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.container {
+    text-align: center;
+}
+
+h2 {
+    border-style: solid;
+    border-color: blue;
+    height: 50px;
+    width: 400px;
+    background-color: black;
+    color: antiquewhite;
+    margin-left: 350px;
+
+}
+
+.color {
+    color: aqua;
+}
+
+#btn {
+    margin-right: 90px;
+    border-radius: 10px;
+}
+
+#btn:hover {
+    background-color: black;
+    color: white;
+}
